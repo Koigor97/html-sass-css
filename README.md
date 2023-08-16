@@ -1,2 +1,5 @@
 # sass
-This repository is a timeline/journey in learning HTML and CSS/SASS. It will hold all files and folders on projects I will be working on.
+The goal of this repository is create beautiful, simple, static websites. This would be done with focus on    
+responsive website principles in mind, semantic HTML, and most especially Web Accessibilty. The internet is  
+for everyone, which means websites should be built with People with disability in mind. It just makes you a  
+better human. I will be using W3C as my main resource to achieve that.
